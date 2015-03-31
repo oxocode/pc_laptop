@@ -15,30 +15,32 @@ Plus, MacBook Pros are cool n' all, but I prefer PCs. How often do you hear of P
 
 ## requires
 
-Windows 7+
-Installation of VirtualBox & VirtualBox Ext.
+* Windows 7+
+
+* Installation of VirtualBox
+* VirtualBox Ext. (Optional)
 
 ## includes
 
-console2 - powershell? for why? no.
-git
-php binaries (mingw32)
-phpcs
-phpmd 
-wp-cli
-Composer
-Ruby
-Nodejs + npm
-Bower
-Compass
-Vagrant
-...and more
+* console2 - powershell? for why? no.
+* git
+* php binaries (mingw32)
+* phpcs
+* phpmd 
+* wp-cli
+* Composer
+* Ruby
+* Nodejs + npm
+* Bower
+* Compass
+* Vagrant
+* ...and more
 
 ## dotfiles
 
-(Optional) Submodule my dotfiles, pls!
-(Optional) Git in My Bash - an intuitive git bash prompt 
-(Optional) Git in My Bash w/ SVN - an intuitive git bash prompt w/ svn info
+* (Optional) Submodule my dotfiles, pls!
+* (Optional) Git in My Bash - an intuitive git bash prompt 
+* (Optional) Git in My Bash w/ SVN - an intuitive git bash prompt w/ svn info
 
 ## changelog 
 
