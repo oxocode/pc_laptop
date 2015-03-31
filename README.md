@@ -1,4 +1,5 @@
 # pc_laptop
+
 PC DEVA - PC Development Environment + Vagrant Awesomeness
 
 ## say wha now?
@@ -16,7 +17,6 @@ Plus, MacBook Pros are cool n' all, but I prefer PCs. How often do you hear of P
 ## requires
 
 * Windows 7+
-
 * Installation of VirtualBox
 * VirtualBox Ext. (Optional)
 
