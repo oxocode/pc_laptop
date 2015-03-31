@@ -3,7 +3,7 @@ PC DEVA - PC Development Environment + Vagrant Awesomeness
 
 ## say wha now?
 
-An automated PC setup for development environment awesomeness:
+An automated PC setup script for PHP software development using git + Vagrant on Windows.
 
 Who _really_ wants to remember which blogs had the best steps for development setup, or have to remember the dev versions that _actually_ work for each piece of software on Windows? That was rhetorical.
 
@@ -15,6 +15,9 @@ Plus, MacBook Pros are cool n' all, but I prefer PCs. How often do you hear of P
 
 ## requires
 
+Windows 7+
+Installation of VirtualBox & VirtualBox Ext.
+
 ## includes
 
 console2 - powershell? for why? no.
@@ -24,6 +27,7 @@ phpcs
 phpmd 
 wp-cli
 Composer
+Ruby
 Nodejs + npm
 Bower
 Compass
@@ -32,7 +36,9 @@ Vagrant
 
 ## dotfiles
 
-Submodule my dotfiles, pls!
+(Optional) Submodule my dotfiles, pls!
+(Optional) Git in My Bash - an intuitive git bash prompt 
+(Optional) Git in My Bash w/ SVN - an intuitive git bash prompt w/ svn info
 
 ## changelog 
 
